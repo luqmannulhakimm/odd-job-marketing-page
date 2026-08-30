@@ -139,7 +139,7 @@ export default function Home() {
                 <div className="flex flex-col justify-between gap-5 sm:flex-row sm:items-end">
                   <div>
                     <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/45">Offers from</p>
-                    <p className="mt-1 text-4xl font-black tracking-[-0.055em]">RM5,000</p>
+                    <p className="mt-1 text-4xl font-black tracking-[-0.055em]">RM15,000</p>
                   </div>
                   <a href={phoneHref} className="group inline-flex items-center gap-2 text-sm font-bold text-[var(--signal)]">
                     Speak to the owner

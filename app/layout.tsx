@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://oddjob.my'),
   title: 'oddjob.my — Premium Malaysian Domain for Sale',
   description:
-    'oddjob.my is available for acquisition from RM5,000. Contact the owner directly by phone or WhatsApp.',
+    'oddjob.my is available for acquisition from RM15,000. Contact the owner directly by phone or WhatsApp.',
   alternates: {
     canonical: '/',
   },
@@ -26,20 +26,20 @@ export const metadata: Metadata = {
     url: '/',
     siteName: 'oddjob.my',
     title: 'oddjob.my — Premium Malaysian Domain for Sale',
-    description: 'A short, direct .my domain available from RM5,000.',
+    description: 'A short, direct .my domain available from RM15,000.',
     images: [
       {
         url: '/og.png',
         width: 1200,
         height: 630,
-        alt: 'oddjob.my — Premium Malaysian domain for sale, offers from RM5,000',
+        alt: 'oddjob.my — Premium Malaysian domain for sale, offers from RM15,000',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'oddjob.my — Premium Malaysian Domain for Sale',
-    description: 'A short, direct .my domain available from RM5,000.',
+    description: 'A short, direct .my domain available from RM15,000.',
     images: ['/og.png'],
   },
 };
