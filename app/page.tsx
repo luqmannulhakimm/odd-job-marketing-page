@@ -46,11 +46,8 @@ export default function Home() {
         <div className="pointer-events-none absolute -left-48 top-24 -z-10 size-[32rem] rounded-full bg-[radial-gradient(circle,var(--glow)_0%,transparent_68%)] blur-3xl" />
 
         <header className="mx-auto flex w-full max-w-7xl items-center justify-between px-5 py-5 sm:px-8 lg:px-10">
-          <a href="#top" className="group flex items-center gap-3" aria-label="oddjob.my home">
-            <span className="flex size-10 items-center justify-center rounded-full border border-foreground/15 bg-card font-mono text-xs font-bold tracking-[-0.08em] shadow-sm transition-transform group-hover:-rotate-6">
-              OJ
-            </span>
-            <span className="font-mono text-sm font-bold tracking-[-0.04em]">oddjob.my</span>
+          <a href="#top" className="font-mono text-sm font-bold tracking-[-0.04em]" aria-label="oddjob.my home">
+            oddjob.my
           </a>
 
           <div className="flex items-center gap-3">
